@@ -1,0 +1,9 @@
+1 + "string"
+        ^^^^^^^^
+(+) is expecting the right side to be a:
+
+   number
+
+But the right side is:
+
+   String
