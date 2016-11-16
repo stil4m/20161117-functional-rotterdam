@@ -4,12 +4,11 @@ type alias Person =
     }
 
 mats : Person
-mats =
-    { name = "Mats", age = 17}
+mats = { name = "Mats", age = 17}
 
 peter : Person
 peter = Person "Peter" 12
 
 -- Will not compile
 johnDoe : Person
-    { name = "John" }
+johnDoe = { name = "John" }

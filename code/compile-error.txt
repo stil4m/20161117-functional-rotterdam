@@ -1,5 +1,6 @@
-1 + "string"
-        ^^^^^^^^
+1 + "1"
+    ^^^
+    
 (+) is expecting the right side to be a:
 
    number
